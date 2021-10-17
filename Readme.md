@@ -1,0 +1,1 @@
+Ola, este projeto é um desafio na linguagem C de um trabalho da faculdade. 
